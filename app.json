@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Tech2Ai",
-    "slug": "Tech2Ai",
+    "slug": "tech2ai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7f47ad9a-4019-414f-9c33-626eab8f4fd7"
+      }
+    },
+    "owner": "iftikhar_zahid"
   }
 }
